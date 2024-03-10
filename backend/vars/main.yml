@@ -1,0 +1,5 @@
+---
+# vars file for backend
+var_name: laravel
+var_user: admin
+var_password: admin

@@ -1,0 +1,6 @@
+---
+# vars file for mysql
+
+db_name: laravel
+db_user: admin
+db_password: admin

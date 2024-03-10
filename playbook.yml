@@ -1,0 +1,10 @@
+---
+
+- name: set up webserver
+  hosts: all
+  become: true
+  roles:
+    - update
+    - nginx
+    - mysql
+    - backend
